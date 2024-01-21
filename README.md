@@ -1,4 +1,4 @@
-# Cancer recognition using hybrid transfer learning
+# Leaf disease recognition using hybrid transfer learning
 
 This repository is an example of using a hybrid transfer learning model by combing two CNN architectures: VGG16 and DenseNet.
 
